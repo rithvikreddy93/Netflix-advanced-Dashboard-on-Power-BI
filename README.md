@@ -19,7 +19,7 @@ It consists of **three well-structured pages**, each offering a unique perspecti
    - Global content distribution heatmap.
    - **Interactive filters** for better insights.
 
-![Overview Page](Screenshot%202025-03-11%20003433.png)
+![Overview Page](Overview_Screenshot.png)
 
 ---
 
@@ -30,7 +30,7 @@ It consists of **three well-structured pages**, each offering a unique perspecti
    - **Top Netflix titles** based on multiple criteria.
    - **Treemap visualization** categorizing genres based on volume.
 
-![Explore Page](Screenshot%202025-03-11%20003452.png)
+![Explore Page](Explore_Screenshot.png)
 
 ---
 
@@ -41,7 +41,7 @@ It consists of **three well-structured pages**, each offering a unique perspecti
    - **Sankey Diagram** visualizing Netflix’s yearly content production.
    - **Top countries** producing the most Netflix content.
 
-![Performance Page](Screenshot%202025-03-11%20003504.png)
+![Performance Page](Performance_Screenshot.png)
 
 ---
 
