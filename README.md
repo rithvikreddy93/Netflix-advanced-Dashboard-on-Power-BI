@@ -72,5 +72,3 @@ This project is licensed under the **MIT License**. Click [here](LICENSE) to vie
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-rithvik-reddy-c-62b111290/) | [GitHub](https://github.com/rithvikreddy93)
 
 ---
-
-🚀 **Feel free to contribute, suggest improvements, or fork this repository!** Happy analyzing! 🎉
